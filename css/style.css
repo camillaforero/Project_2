@@ -28,13 +28,7 @@ main-nav ul li {
   position: relative;
   right: 50%;
 }
-h1 {
-  top: 20px;
-  font-size: 3em;
-  font-family: 'Georgia', cursive;
-  color: Black;
-  text-align: center;
-}
+
 .nav-container {
   display: flex;
   justify-content: center;
@@ -72,4 +66,35 @@ main-nav ul li a {
   font-size: 20px;
   margin-right: 20px;
   background-color: Plum; 
+}
+h1 {
+  top: 20px;
+  font-size: 3em;
+  font-family: 'Georgia', cursive;
+  color: Black;
+  text-align: center;
+}
+#box1 {
+  background-color: SeaShell;
+  display: flow;
+  padding: 20px;
+  border:10px ridge silver;
+  width: 40%;
+  margin: 0px auto;
+  font-family: "cursive", fangsong;
+}
+
+.header-content {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding-top: 8px;
+    padding-right: 8px;
+    height: 100px;
+}
+
+.header-content h1 {
+    font-size: 3em;
+    font-family: 'Devonshire', Arial;
+    color: MistyRose;
 }
