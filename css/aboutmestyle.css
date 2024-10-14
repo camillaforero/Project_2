@@ -93,3 +93,17 @@ strong {
   color: Maroon;
   font-weight: bold;
 }
+iframe {
+  width: "560"; 
+  height: "315";
+  border: 0px;
+  frameborder:"0"; 
+  allow: "accelerometer"; 
+  allow: "autoplay"; 
+  allow: "clipboard-write"; 
+  allow: "encrypted-media"; 
+  allow: "gyroscope"; 
+  allow: "picture-in-picture"; 
+  allow: web-share;
+  referrerpolicy: "strict-origin-when-cross-origin";
+  allow: allowFullScreen;
