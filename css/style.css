@@ -33,7 +33,7 @@ main-nav ul li {
   display: flex;
   justify-content: center;
   unicode-bidi: isolate;
-  background-color: MediumVioletRed;
+  background-color: Plum;
   padding: 15px;
   border-radius: 10px;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
@@ -50,10 +50,10 @@ main-nav ul li a {
   margin: 0;
   padding: 0;
   float: left;
-	color: black;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
   font-size: 20px;
 }
 
