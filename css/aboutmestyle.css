@@ -108,3 +108,10 @@ iframe {
   referrerpolicy: "strict-origin-when-cross-origin";
   allow: allowFullScreen;
 }
+.imageflex { 
+  display: flex; 
+}
+.imageflexcontent { 
+  margin-left: 5px; 
+  margin-top: 0;
+}
