@@ -1,5 +1,5 @@
 body {
-  background-color: LavenderBlush;
+  background-color: Violet;
 }
 .center {
   margin-left: auto;
@@ -8,12 +8,13 @@ body {
 main-nav {
   float: left;
   width: 100px;
-  background-color: HotPink;
+  background-color: Thistle;
+  text-align: center;
 }
 
 nav ul li a:hover {
-  color: LightPink; 
-  background-color: MistyRose; 
+  color: RosyBrown; 
+  background-color: HotPink; 
   text-decoration: underline; 
 }
 
