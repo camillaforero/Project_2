@@ -28,7 +28,13 @@ main-nav ul li {
   position: relative;
   right: 50%;
 }
-
+h1 {
+  top: 20px;
+  font-size: 3em;
+  font-family: 'Georgia', cursive;
+  color: Black;
+  text-align: center;
+}
 .nav-container {
   display: flex;
   justify-content: center;
