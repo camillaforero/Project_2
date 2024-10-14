@@ -67,3 +67,8 @@ main-nav ul li a {
   margin-right: 20px;
   background-color: Plum; 
 }
+img {
+  max-width: 50%;
+  height: auto;
+  border: 2px white;
+}
