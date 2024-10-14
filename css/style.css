@@ -10,9 +10,16 @@ main-nav {
   width: 100px;
   background-color: Thistle;
 }
-
+#main-nav ul li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: left;
+  position: relative;
+  left: 50%;
+}
 nav ul li a:hover {
-  color: RosyBrown; 
+  color: Black; 
   background-color: HotPink; 
   text-decoration: underline; 
 }
@@ -25,7 +32,7 @@ nav ul li a:hover {
   padding: 15px;
   border-radius: 10px;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
-  text-align: center;
+
 }
 
 .navigation ul {
@@ -33,11 +40,9 @@ nav ul li a:hover {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  text-align: center;
 }
 
 .navigation ul li {
   margin-right: 20px;
   background-color: Plum; 
-  text-align: center;
 }
