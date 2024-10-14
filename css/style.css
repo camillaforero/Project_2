@@ -10,11 +10,23 @@ main-nav {
   width: 100px;
   background-color: Thistle;
 }
-
+#main-nav ul li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: left;
+  position: relative;
+  left: 50%;
+}
 nav ul li a:hover {
   color: Black; 
   background-color: HotPink; 
   text-decoration: underline; 
+}
+main-nav ul li {
+  float: left;
+  position: relative;
+  right: 50%;
 }
 
 .nav-container {
@@ -27,7 +39,11 @@ nav ul li a:hover {
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
 
 }
-
+main-nav ul li a {
+  padding: 10px 25px;
+  display: block;
+  color: Plum;
+}
 .navigation ul {
   display: flex;
   list-style-type: none;
@@ -44,10 +60,10 @@ nav ul li a:hover {
 .navigation ul li {
   float: left;
   color: black;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-	font-size: 20px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
   margin-right: 20px;
   background-color: Plum; 
 }
