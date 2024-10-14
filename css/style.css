@@ -104,17 +104,3 @@ h1 {
   margin: 0px auto;
   font-family: "cursive", fangsong;
 }
-.header-content {
-    display: flex;
-    justify-content: flex-end;
-    align-items: flex-start;
-    padding-top: 8px;
-    padding-right: 8px;
-    height: 100px;
-}
-
-.header-content h1 {
-    font-size: 3em;
-    font-family: 'Devonshire', Arial;
-    color: PaleVioletRed;
-}
