@@ -79,7 +79,7 @@ h1 {
   color: Black;
   text-align: center;
 }
-#box {
+div {
   background-color: HotPink;
   text-align: center;
   display: flow;
