@@ -94,19 +94,17 @@ strong {
   font-weight: bold;
 }
 iframe {
-  width: "560"; 
-  height: "315";
+  width: 560px; 
+  height: 315px;
   border: 0px;
-  frameborder:"0"; 
-  allow: "accelerometer"; 
+  all: "accelerometer"; 
   allow: "autoplay"; 
-  allow: "clipboard-write"; 
-  allow: "encrypted-media"; 
-  allow: "gyroscope"; 
-  allow: "picture-in-picture"; 
-  allow: web-share;
-  referrerpolicy: "strict-origin-when-cross-origin";
-  allow: allowFullScreen;
+  all: "clipboard-write"; 
+  all: "encrypted-media"; 
+  all: "gyroscope"; 
+  all: "picture-in-picture"; 
+  all: web-share;
+  all: allowFullScreen;
 }
 .imageflex { 
   display: flex; 
