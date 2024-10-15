@@ -68,18 +68,10 @@ main-nav ul li a {
   background-color: Plum; 
 }
 iframe {
-  width:"560"; 
-  height:"315";
-  frameborder:"0";
+  width:560px; 
+  height:315px;
+  border: 0px;
   allow: "accelerometer"; 
-  allow: "autoplay"; 
-  allow: "clipboard-write"; 
-  allow: "encrypted-media"; 
-  allow: "gyroscop"e; 
-  allow: "picture-in-picture"; 
-  allow: "web-share"; 
-  referrerpolicy:"strict-origin-when-cross-origin";
-  allow: allowfullscreen;
 }
 img {
   max-width: 20%;
