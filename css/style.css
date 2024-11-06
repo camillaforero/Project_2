@@ -111,6 +111,9 @@ div {
   width:50%;
   float: left;
 }
+#me {
+  float: right;
+}
 img {
   position: relative;
   max-width: 40%;
