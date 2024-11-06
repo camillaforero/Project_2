@@ -133,3 +133,7 @@ iframe {
   height: 315px;
   border: 0px;
 }
+#loossembleVid {
+  float: left;
+  position: fixed;
+}
