@@ -139,6 +139,9 @@ strong {
   color: Maroon;
   font-weight: bold;
 }
+href {
+  text-decoration: none;
+}
 iframe {
   width: 560px; 
   height: 315px;
