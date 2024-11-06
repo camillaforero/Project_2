@@ -117,6 +117,7 @@ div {
 #me {
   float: right;
   height: 20%;
+  position: relative;
 }
 #vidPen{
   float: right;
