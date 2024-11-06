@@ -117,6 +117,9 @@ div {
 #me {
   float: right;
 }
+#vidPen{
+  float: right;
+}
 img {
   position: relative;
   max-width: 40%;
