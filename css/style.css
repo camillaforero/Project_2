@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Barriecito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Delius+Swash+Caps&display=swap');
 
 body {
   background-color: MistyRose;
@@ -76,9 +76,9 @@ main-nav ul li a {
 h1 {
   top: 20px;
   font-size: 3em;
-  font-family: "Barriecito", sans-serif;
+  font-family: "Delius Swash Caps", sans-serif;
   color: Black;
-  font-family: "Barriecito", sans-serif;
+  font-family: "Delius Swash Caps", sans-serif;
 }
 div {
   background-color: HotPink;
@@ -88,7 +88,7 @@ div {
   border:10px ridge silver;
   width: 90%;
   margin: 0px auto;
-  font-family: "Barriecito", sans-serif;
+  font-family: "Delius Swash Caps", sans-serif;
 }
 
 #box1 {
@@ -99,7 +99,7 @@ div {
   border:10px ridge silver;
   width: 90%;
   margin: 0px auto;
-  font-family: "Barriecito", sans-serif;
+  font-family: "Delius Swash Caps", sans-serif;
 }
 img {
   max-width: 40%;
