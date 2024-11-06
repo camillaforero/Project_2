@@ -43,6 +43,7 @@ main-nav ul li a {
   padding: 10px 25px;
   display: block;
   color: Plum;
+  text-decoration: none;
 }
 .navigation ul {
   display: flex;
