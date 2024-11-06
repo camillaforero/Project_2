@@ -27,7 +27,7 @@ nav ul li a:hover {
   background-color: HotPink; 
   text-decoration: none; 
 }
-nav ul li a{
+a{
   text-decoration:none;
 }
 main-nav ul li {
