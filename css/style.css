@@ -110,7 +110,7 @@ div {
   width:50%
 }
 img {
-  float: left;
+  position: relative;
   max-width: 40%;
   max-height: 30%;
   border: 2px white;
