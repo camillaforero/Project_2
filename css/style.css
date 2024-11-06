@@ -17,6 +17,7 @@ main-nav {
   float: left;
   position: relative;
   left: 50%;
+  text-decoration: none;
 }
 nav ul li a:hover {
   color: Black; 
@@ -27,6 +28,7 @@ main-nav ul li {
   float: left;
   position: relative;
   right: 50%;
+  text-decoration: none;
 }
 
 .nav-container {
