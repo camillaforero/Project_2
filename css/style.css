@@ -21,7 +21,7 @@ main-nav {
 nav ul li a:hover {
   color: Black; 
   background-color: HotPink; 
-  text-decoration: underline; 
+  text-decoration: none; 
 }
 main-nav ul li {
   float: left;
@@ -94,4 +94,49 @@ div {
   width: 90%;
   margin: 0px auto;
   font-family: "cursive", fangsong;
+}
+body {
+  background-color: MistyRose;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+main-nav {
+  float: left;
+  width: 100px;
+  background-color: Thistle;
+}
+#main-nav ul li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: left;
+  position: relative;
+  left: 50%;
+} 
+}
+img {
+  max-width: 40%;
+  max-height: 30%;
+  border: 2px white;
+}
+div {
+  background-color: MediumOrchid;
+  text-align: center;
+  display: flow;
+  padding: 20px;
+  border:10px ridge silver;
+  width: 90%;
+  margin: 0px auto;
+  font-family: "cursive", fangsong;
+}
+strong {
+  color: Maroon;
+  font-weight: bold;
+}
+iframe {
+  width: 560px; 
+  height: 315px;
+  border: 0px;
 }
