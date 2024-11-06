@@ -114,11 +114,7 @@ div {
   width:50%;
   float: left;
 }
-#me {
-  float: right;
-  height: 20%;
-  position: absolute;
-}
+
 #vidPen{
   float: right;
 }
