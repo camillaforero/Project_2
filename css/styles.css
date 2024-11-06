@@ -139,7 +139,7 @@ iframe {
 #loossembleVid {
   position: fixed;
   top: 50%;
-  left: 0;
+  left: 10%;
   width: 20%;
   height: 30%;
 }
